@@ -33,7 +33,11 @@ como Estados del cliente, lugar de residencia, etc.
 *   Los procesos de recuperacion de consumo.
 *   Auditoría de datos sensibles.
 
+Resumen de todo el cliente.
 ![image](https://user-images.githubusercontent.com/61068392/158891238-f2e19336-3fd8-41b5-9317-7c5cce20895d.png)
+
+Datos generales del cliente.
+![image](https://user-images.githubusercontent.com/61068392/158891872-1098f457-995e-4782-985f-9401b1d5219f.png)
 
 
 [🔝 Volver al índice](#índice-de-contenido)
