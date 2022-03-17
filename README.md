@@ -39,6 +39,68 @@ Resumen de todo el cliente.
 Datos generales del cliente.
 ![image](https://user-images.githubusercontent.com/61068392/158891872-1098f457-995e-4782-985f-9401b1d5219f.png)
 
+La gráfica de Consumos Históricos visualiza el consumo del cliente durante los últimos 6 meses, comparado contra el consumo promedio del grupo al que pertenece el cliente.
+![image](https://user-images.githubusercontent.com/61068392/158893325-57f23e85-1fd5-4fb2-b460-1583a4dd8b45.png)
 
+Agrupación de Clientes:
+*   Municipio
+*   Código de Área
+*   Clase de Servicio
+*   Estrato
+*   Área Común
+*   Ciclo
+*   Sección de Ruta Lectura
+
+Para los No Residenciales, adicionalmente
+Rango del promedio del consumo entre 0-
+500, 501-2000, 2001-10000 y mayor a 10000.
+
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Consulta Saldo (ATC_SALDOS)**
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/ATC_SALDOS.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Saldo
+```
+
+Consulta la cartera de un cliente: Cartera actual,
+Cartera financiada, Cartera congelada y Conceptos
+programados a próximas facturaciones
+
+Consultar saldos pendiente para un código del cliente esécifico y realizar abonos por cualquier concepto.
+![image](https://user-images.githubusercontent.com/61068392/158900674-f3726594-c489-4fa0-87e5-d4c384f232d5.png)
+
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Consulta Conexos (FAC_CNXCON)**
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/FAC_CNXCON.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Conexo
+```
+Consulta los conexos de un cliente: Conexos en
+crédito, Financiación, Conexos Próximas facturaciones, Conexos Inmediatos, Conexos Futura
+
+Permite la consulta y/o anulacipon de liquidaciones y/o cotizaciones de servicios conexsos realizadas a un cliente y a la actualizacion de los mensajes ingresados a la liquidacion.
+![image](https://user-images.githubusercontent.com/61068392/158901933-3902287c-39e8-4041-a5f6-b4ab40a50b5e.png)
+
+
+
+#
 [🔝 Volver al índice](#índice-de-contenido)
 #
