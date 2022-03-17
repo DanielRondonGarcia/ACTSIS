@@ -5,6 +5,8 @@
 
 *   [Consultas](#consultas)
     *   [Datos Generales (ATC_CONGEN)](#datos-generales-atc_congen)
+    *   [Consulta Saldo (ATC_SALDOS)](#consulta-saldo-atc_saldos)
+    *   [Consulta Conexos (FAC_CNXCON)](#consulta-conexos-fac_cnxcon)
 
 
 
