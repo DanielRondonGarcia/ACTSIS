@@ -4,7 +4,7 @@
 ## Índice de contenido
 
 *   [Consultas](#consultas)
-    *   [Datos Generales (ATC_CONGEN)](#Datos_Generales_ATC_CONGEN)
+    *   [Datos Generales (ATC_CONGEN)](#datos-generales-atc_congen)
 
 
 
