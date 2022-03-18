@@ -1,4 +1,4 @@
-##### Ciclo de coordinacion de acciones
+# Ciclo de coordinacion de acciones
 
 
 
