@@ -9,10 +9,10 @@
 *   [Preparación](#preparación)
 *   [Pedido](#pedido)
 *   [Negociación](#negociación)
-*   [Promesas mutuas](#promesas_mutuas)
+*   [Promesas mutuas](#promesas-mutuas)
 *   [Ejecución](#ejecución)
-*   [Declaración de término](#Declaración_de_término)
-*   [Evaluación de satisfacción](#evaluación_de_satisfacción)
+*   [Declaración de término](#Declaración-de-término)
+*   [Evaluación de satisfacción](#evaluación-de-satisfacción)
 *   [Declara Satisfacción](#declara-satisfacción)
 
 
