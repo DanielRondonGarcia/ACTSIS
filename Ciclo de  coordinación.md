@@ -113,6 +113,9 @@ El cliente delcara satisfacción si está satisfecho o de lo contrario reclama e
 
 ### **Ejemplo**
 
+Ejemplo : Req. 69837 Toda vez que actualmente Pereira actualizó la facturación con el fin de que se visualizara dos
+códigos de barras (Valor sin Alumbrado Publico y Valor total), solicitamos que dicha actualización sea también para la
+Facturación en Sitio, que actualmente se encuentra en pruebas
 ![image](https://user-images.githubusercontent.com/61068392/159080561-92ed9cd7-1924-4ea3-8e56-39c7fa7344eb.png)
 ![image](https://user-images.githubusercontent.com/61068392/159080643-7ecd2223-9097-4c10-947f-2929a3749db9.png)
 
