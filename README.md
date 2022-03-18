@@ -1,4 +1,8 @@
-<center><img src="https://user-images.githubusercontent.com/61068392/158889190-5344bfc7-84fe-4392-be22-b5ce970c8a93.png"/></center><center><a href="https://user-images.githubusercontent.com/61068392/158889190-5344bfc7-84fe-4392-be22-b5ce970c8a93.png">SAC</a></center>
+<div>
+<p style = 'text-align:center;'>
+<img src="https://user-images.githubusercontent.com/61068392/158889190-5344bfc7-84fe-4392-be22-b5ce970c8a93.png" alt="JuveYell" width="300px">
+</p>
+</div>
 
 ![image](https://user-images.githubusercontent.com/61068392/158889190-5344bfc7-84fe-4392-be22-b5ce970c8a93.png)
 
