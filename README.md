@@ -4,7 +4,6 @@
 </p>
 </div>
 
-![image](https://user-images.githubusercontent.com/61068392/158889190-5344bfc7-84fe-4392-be22-b5ce970c8a93.png)
 
 
 
