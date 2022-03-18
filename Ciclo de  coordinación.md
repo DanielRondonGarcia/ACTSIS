@@ -114,6 +114,8 @@ El cliente delcara satisfacción si está satisfecho o de lo contrario reclama e
 ### **Ejemplo**
 
 ![image](https://user-images.githubusercontent.com/61068392/159080561-92ed9cd7-1924-4ea3-8e56-39c7fa7344eb.png)
+![image](https://user-images.githubusercontent.com/61068392/159080643-7ecd2223-9097-4c10-947f-2929a3749db9.png)
+
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
