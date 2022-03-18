@@ -14,7 +14,7 @@
 *   [Declaración de término](#Declaración-de-término)
 *   [Evaluación de satisfacción](#evaluación-de-satisfacción)
 *   [Declara Satisfacción](#declara-satisfacción)
-
+*   [Ejemplo](#Ejemplo)
 
 ### **Definición**
 
@@ -104,6 +104,16 @@ Evaluar lo logrado, iniciar el proceso nuevamente si no se cumplen las promesas 
 ### **Declara Satisfacción**
 
 El cliente delcara satisfacción si está satisfecho o de lo contrario reclama e inicia nuevamente el proceso.
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+
+
+### **Ejemplo**
+
+![image](https://user-images.githubusercontent.com/61068392/159080561-92ed9cd7-1924-4ea3-8e56-39c7fa7344eb.png)
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
