@@ -13,7 +13,7 @@
 *   [Ejecución](#ejecución)
 *   [Declaración de término](#Declaración_de_término)
 *   [Evaluación de satisfacción](#evaluación_de_satisfacción)
-*   [Declara Satisfacción](#Declara_Satisfacción)
+*   [Declara Satisfacción](#declara-satisfacción)
 
 
 ### **Definición**
