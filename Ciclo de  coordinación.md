@@ -5,11 +5,15 @@
 
 ## Índice de contenido
 
-*   [Definición](#definicion)
-*   [Preparación](#preparacion)
+*   [Definición](#definición)
+*   [Preparación](#preparación)
 *   [Pedido](#pedido)
-*   [Negociación](#negociacion)
+*   [Negociación](#negociación)
 *   [Promesas mutuas](#promesas_mutuas)
+*   [Ejecución](#ejecución)
+
+
+
 
 
 ### **Definición**
@@ -58,7 +62,7 @@ En este momento ya nos encontramos con esa persona que va a tomar ese pedido y l
 Cuando hacemos el pedido se habre una `conversación` y nos aseguramos de que mi pedido se hará cargo de mis preocupaciones y condiciones de satisfacción. Es donde se tiene la conversación y ser claro para que esa persona quede completamente CONTEXTUALIZADA y que acciones o que entregables sirven para mi al final (el que hace el pedido) considero es una entrega satisfactoria .
 
 * Acepto las contraofertas, declinaciones o mayor tiempo para dar respuesta
-* Termina con `PROMESAS MUTUAS
+* Termina con `PROMESAS MUTUAS`
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
@@ -73,9 +77,10 @@ Es cuando el cliente y su realización acuerdan esas promesas con esas condicion
 #
 
 
-### **Promesas mutuas**
+### **Ejecución**
 
-Es cuando el cliente y su realización acuerdan esas promesas con esas condiciones de satisfaccion es muy importante poner fecha/termino para saber cuando es que se va a terminar para la persona que va a hacer la ejecución, cuantas horas estan planeadas para esa ejecución.
+Empezamos a trabajar p0ara cumplir esos compromisos con las condiciones de satisfaccion que nos dieron , adicional a eso la persona que hizo el pedido puede solicitar avances para evaluar el avance para agradecer o reclamar según el avance de la promesa.
+La persona que hizo el video puede mostrar su preocupaciones, abirse a evaluaciones por parte de la persona que solicitó.
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
