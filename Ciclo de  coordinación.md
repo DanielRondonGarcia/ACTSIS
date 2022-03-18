@@ -11,9 +11,9 @@
 *   [Negociación](#negociación)
 *   [Promesas mutuas](#promesas_mutuas)
 *   [Ejecución](#ejecución)
-
-
-
+*   [Declaración de término](#Declaración_de_término)
+*   [Evaluación de satisfacción](#evaluación_de_satisfacción)
+*   [Declara Satisfacción](#Declara_Satisfacción)
 
 
 ### **Definición**
@@ -81,6 +81,29 @@ Es cuando el cliente y su realización acuerdan esas promesas con esas condicion
 
 Empezamos a trabajar p0ara cumplir esos compromisos con las condiciones de satisfaccion que nos dieron , adicional a eso la persona que hizo el pedido puede solicitar avances para evaluar el avance para agradecer o reclamar según el avance de la promesa.
 La persona que hizo el video puede mostrar su preocupaciones, abirse a evaluaciones por parte de la persona que solicitó.
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Declaración de término**
+Si su realizador no lo hace, solicita que reporten término de las promesas. Señalando que el término ocurre cuando el cliente evalúa si se cumplieron las condiciones de satisfaccion y se ocupraon de sus preocupaciones.
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Evaluación de satisfacción**
+
+Evaluar lo logrado, iniciar el proceso nuevamente si no se cumplen las promesas acordadas o no se hicieron cargo de las solicitudes o pedir disculpas si no se cumplen las promesas.
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Declara Satisfacción**
+
+El cliente delcara satisfacción si está satisfecho o de lo contrario reclama e inicia nuevamente el proceso.
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
