@@ -128,6 +128,16 @@ Ruta:
 Consultas/Consulta medidores
 ```
 
+Trae información historica del medidor
+*  Información General: Nos trae la información básica del medidor.
+*  Información del predio: Nos trae la información de donde se encuentra ubicado el medidor.
+*  Información Técnica: Caracteristicas  del medidor
+*  Información Adicional: Información técnica del proveedor, calificacion.
+*  Lecturas del medidor: La información de la ultima lectura y promedio historico
+*  Sellos: Los sellos que se encuentran instalados en el medidor, ubicación, tipo de sello, fecha de instalación, etc.
+*  Historia dle medidor
+*  Detalles de  lecturas
+
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
