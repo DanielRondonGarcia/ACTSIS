@@ -13,6 +13,7 @@
     *   [Datos Generales (ATC_CONGEN)](#datos-generales-atc_congen)
     *   [Consulta Saldo (ATC_SALDOS)](#consulta-saldo-atc_saldos)
     *   [Consulta Conexos (FAC_CNXCON)](#consulta-conexos-fac_cnxcon)
+    *   [Módulo de consulta (LAB_ACTCON)](#Módulo-de-consulta-LAB_ACTCON)
 
 
 
@@ -107,6 +108,25 @@ crédito, Financiación, Conexos Próximas facturaciones, Conexos Inmediatos, Co
 Permite la consulta y/o anulacipon de liquidaciones y/o cotizaciones de servicios conexsos realizadas a un cliente y a la actualizacion de los mensajes ingresados a la liquidacion.
 ![image](https://user-images.githubusercontent.com/61068392/158901933-3902287c-39e8-4041-a5f6-b4ab40a50b5e.png)
 
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+
+### **Módulo de consulta (LAB_ACTCON)**
+
+Consulta de Medidores: Consultar la información general, de predio y técnica del medidor, además de la información de lecturas, sellos e historia general del medidor.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/LAB_ACTCON.aspx
+```
+Ruta: 
+```
+Consultas/Consulta medidores
+```
 
 
 #
