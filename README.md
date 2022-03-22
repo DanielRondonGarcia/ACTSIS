@@ -15,6 +15,8 @@
     *   [Consulta Conexos (FAC_CNXCON)](#consulta-conexos-fac_cnxcon)
     *   [Módulo de consulta de Medidores (LAB_ACTCON)](#módulo-de-consulta-de-medidores-lab_actcon)
     *   [Consulta de Sellos (LAB_INGSEL)](#Consulta-de-Sellos-LAB_INGSEL)
+    *   [Consulta Instaladores Técnicos Electricistas (MAT_MEELEC)](#consulta-saldo-atc_saldos)
+
 
 
 ### **Consultas**
@@ -154,6 +156,24 @@ https://sacnet-rc.actsis.com/SAC/Vistas/App/LAB_INGSEL.aspx
 Ruta: 
 ```
 Consultas/Consulta Sellos
+```
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Consulta Instaladores Técnicos Electricistas (MAT_MEELEC)**
+
+Consulta de Técnicos Electricistas: Consultar datos de los Técnicos Electricistas autorizados para realizar y presentar obras ante la empresa y las instalaciones realizadas y rechazadas.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/MAT_MEELEC.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Instaladores
 ```
 
 
