@@ -17,6 +17,7 @@
     *   [Consulta de Sellos (LAB_INGSEL)](#Consulta-de-Sellos-LAB_INGSEL)
     *   [Consulta Instaladores Técnicos Electricistas (MAT_MEELEC)](#consulta-instaladores-técnicos-electricistas-mat_meelec)
     *   [Consulta Agenda Facturación (FAC_AGEFAC)](#consulta-agenda-facturación-fac_agefac)
+    *   [Impuesto de Alumbrado público (EQT_ACTALU)](#consulta-saldo-atc_saldos)
 
 
 ### **Consultas**
@@ -198,9 +199,28 @@ Ruta:
 ```
 Consultas/Consulta Agenda Facturación
 ```
-Nos lsita todos los ciclos que se encuentran antivos en la empresa, se puede buscar por ciclos programados o ejecutados.
+Nos muestra todos los ciclos que se encuentran antivos en la empresa, se puede buscar por ciclos programados o ejecutados.
 
 Se pueden buscar clientes activos, clientes nuevos, medidores instalados, etc
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Impuesto de Alumbrado público (EQT_ACTALU)**
+
+Consulta Alumbrado Público: Consultar los porcentajes, topes y valores liquidados por concepto de Impuesto de Alumbrado Público.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/EQT_ACTALU.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Imp. Alumbrado Público
+```
+
 
 
 #
