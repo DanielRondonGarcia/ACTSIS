@@ -16,7 +16,7 @@
     *   [Módulo de consulta de Medidores (LAB_ACTCON)](#módulo-de-consulta-de-medidores-lab_actcon)
     *   [Consulta de Sellos (LAB_INGSEL)](#Consulta-de-Sellos-LAB_INGSEL)
     *   [Consulta Instaladores Técnicos Electricistas (MAT_MEELEC)](#consulta-instaladores-técnicos-electricistas-mat_meelec)
-
+    *   [Consulta Agenda Facturación (FAC_AGEFAC)](#consulta-saldo-atc_saldos)
 
 
 ### **Consultas**
@@ -179,6 +179,28 @@ Consultas/Consulta Instaladores
 *  Datos básicos
 *  Suspenciones
 *  Póliza
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+
+### **Consulta Agenda Facturación (FAC_AGEFAC)**
+
+Consulta Agenda de Facturación: Consultar las programaciones y ejecuciones de las fechas de facturación para los ciclos activos.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/FAC_AGEFAC.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Agenda Facturación
+```
+Nos lsita todos los ciclos que se encuentran antivos en la empresa, se puede buscar por ciclos programados o ejecutados.
+
+Se pueden buscar clientes activos, clientes nuevos, medidores instalados, etc
 
 
 #
