@@ -13,7 +13,7 @@
     *   [Datos Generales (ATC_CONGEN)](#datos-generales-atc_congen)
     *   [Consulta Saldo (ATC_SALDOS)](#consulta-saldo-atc_saldos)
     *   [Consulta Conexos (FAC_CNXCON)](#consulta-conexos-fac_cnxcon)
-    *   [Módulo de consulta (LAB_ACTCON)](#Módulo-de-consulta-LAB_ACTCON)
+    *   [Módulo de consulta de Medidores (LAB_ACTCON)](#Módulo-de-consulta-LAB_ACTCON)
 
 
 
@@ -115,7 +115,7 @@ Permite la consulta y/o anulacipon de liquidaciones y/o cotizaciones de servicio
 #
 
 
-### **Módulo de consulta (LAB_ACTCON)**
+### **Módulo de consulta de Medidores (LAB_ACTCON)**
 
 Consulta de Medidores: Consultar la información general, de predio y técnica del medidor, además de la información de lecturas, sellos e historia general del medidor.
 
