@@ -14,7 +14,7 @@
     *   [Consulta Saldo (ATC_SALDOS)](#consulta-saldo-atc_saldos)
     *   [Consulta Conexos (FAC_CNXCON)](#consulta-conexos-fac_cnxcon)
     *   [Módulo de consulta de Medidores (LAB_ACTCON)](#módulo-de-consulta-de-medidores-lab_actcon)
-
+    *   [Consulta de Sellos (LAB_INGSEL)](#Consulta-de-Sellos-LAB_INGSEL)
 
 
 ### **Consultas**
@@ -137,6 +137,24 @@ Trae información historica del medidor
 *  Sellos: Los sellos que se encuentran instalados en el medidor, ubicación, tipo de sello, fecha de instalación, etc.
 *  Historia dle medidor
 *  Detalles de  lecturas
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Consulta de Sellos (LAB_INGSEL)**
+
+Consulta de Sellos: Consultar la información general, histórica y técnica del sello
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/LAB_INGSEL.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Sellos
+```
 
 
 #
