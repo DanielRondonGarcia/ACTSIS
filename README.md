@@ -17,7 +17,7 @@
     *   [Consulta de Sellos (LAB_INGSEL)](#Consulta-de-Sellos-LAB_INGSEL)
     *   [Consulta Instaladores Técnicos Electricistas (MAT_MEELEC)](#consulta-instaladores-técnicos-electricistas-mat_meelec)
     *   [Consulta Agenda Facturación (FAC_AGEFAC)](#consulta-agenda-facturación-fac_agefac)
-    *   [Impuesto de Alumbrado público (EQT_ACTALU)](#consulta-saldo-atc_saldos)
+    *   [Impuesto de Alumbrado público (EQT_ACTALU)](#impuesto-de-alumbrado-público-eqt_actalu)
 
 
 ### **Consultas**
