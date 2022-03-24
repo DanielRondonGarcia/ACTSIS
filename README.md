@@ -18,7 +18,8 @@
     *   [Consulta Instaladores Técnicos Electricistas (MAT_MEELEC)](#consulta-instaladores-técnicos-electricistas-mat_meelec)
     *   [Consulta Agenda Facturación (FAC_AGEFAC)](#consulta-agenda-facturación-fac_agefac)
     *   [Impuesto de Alumbrado público (EQT_ACTALU)](#impuesto-de-alumbrado-público-eqt_actalu)
-
+    *   [Refacturaciones (AUD_CONREF)](#impuesto-de-alumbrado-público-eqt_actalu)
+    *   [Estadísticas por Ciclo (FAC_CICVER)](#impuesto-de-alumbrado-público-eqt_actalu)
 
 ### **Consultas**
 
@@ -219,6 +220,45 @@ https://sacnet-rc.actsis.com/SAC/Vistas/App/EQT_ACTALU.aspx
 Ruta: 
 ```
 Consultas/Consulta Imp. Alumbrado Público
+```
+
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Refacturaciones (AUD_CONREF)**
+
+Consulta de Refacturaciones: Auditar los ajustes refacturaciones que se han realizado a un cliente.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/AUD_CONREF.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Refacturaciones
+```
+
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+
+### **Estadísticas por Ciclo (FAC_CICVER)**
+
+Consulta de Refacturaciones: Auditar los ajustes refacturaciones que se han realizado a un cliente.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/AUD_CONREF.aspx
+```
+Ruta: 
+```
+Consultas/Consulta Refacturaciones
 ```
 
 
