@@ -20,6 +20,8 @@
     *   [Impuesto de Alumbrado público (EQT_ACTALU)](#impuesto-de-alumbrado-público-eqt_actalu)
     *   [Refacturaciones (AUD_CONREF)](#refacturaciones-aud_conref)
     *   [Estadísticas por Ciclo (FAC_CICVER)](#estadísticas-por-ciclo-fac_cicver)
+    *   [Buscar Clientes (ATC_BUSCLI)](#buscar-clientes-atc_buscli)
+
 
 ### **Consultas**
 
@@ -259,6 +261,26 @@ https://sacnet-rc.actsis.com/SAC/Vistas/App/FAC_CICVER.aspx
 Ruta: 
 ```
 Consultas/Estadisticas por ciclo
+```
+
+Muestra los clienters actives, los medidores instalados, estado de los clientes, la calse de servicio, el municipio, estado de suministro, grupos CU, codigo de área 
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+
+### **Buscar Clientes (ATC_BUSCLI)**
+
+Consultar en el sistema clientes que coincidan con los diferentes criterios de búsqueda ingresados en la pantalla.
+
+URL: 
+```
+https://sacnet-rc.actsis.com/SAC/Vistas/App/ATC_BUSCLI.aspx
+```
+Ruta: 
+```
+Consultas/Buscar Clientes
 ```
 
 Muestra los clienters actives, los medidores instalados, estado de los clientes, la calse de servicio, el municipio, estado de suministro, grupos CU, codigo de área 
