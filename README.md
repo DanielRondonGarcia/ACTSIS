@@ -19,7 +19,7 @@
     *   [Consulta Agenda Facturación (FAC_AGEFAC)](#consulta-agenda-facturación-fac_agefac)
     *   [Impuesto de Alumbrado público (EQT_ACTALU)](#impuesto-de-alumbrado-público-eqt_actalu)
     *   [Refacturaciones (AUD_CONREF)](#refacturaciones-aud_conref)
-    *   [Estadísticas por Ciclo (FAC_CICVER)](#impuesto-de-alumbrado-público-eqt_actalu)
+    *   [Estadísticas por Ciclo (FAC_CICVER)](#estadísticas-por-ciclo-fac_cicver)
 
 ### **Consultas**
 
@@ -250,18 +250,18 @@ Consultas/Consulta Refacturaciones
 
 ### **Estadísticas por Ciclo (FAC_CICVER)**
 
-Consulta de Refacturaciones: Auditar los ajustes refacturaciones que se han realizado a un cliente.
+Estadísticas por Ciclo: Consultar estadísticas generales por ciclo, permitiendo ver el detalle de los clientes y sus respectivas gráficas.
 
 URL: 
 ```
-https://sacnet-rc.actsis.com/SAC/Vistas/App/AUD_CONREF.aspx
+https://sacnet-rc.actsis.com/SAC/Vistas/App/FAC_CICVER.aspx
 ```
 Ruta: 
 ```
-Consultas/Consulta Refacturaciones
+Consultas/Estadisticas por ciclo
 ```
 
-
+Muestra los clienters actives, los medidores instalados, estado de los clientes, la calse de servicio, el municipio, estado de suministro, grupos CU, codigo de área 
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
