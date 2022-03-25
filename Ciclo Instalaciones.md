@@ -26,8 +26,12 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 ### **Instalación**
 
 *   Casilla Envio cliente? :si lo marco quiere decir que lo estoy enviando directa, cuando no lo marco quiere decir que la instalación va a estar en `"Stan by"`.
-*   Pre Requisitos: Es el resultado de haber hecho el req
+*   Pre Requisitos: Se lo da la persona que lo mandóa hacer la instalación o si es usted mismo es el Resultado de haber hecho la integración del Req como el Siguiente cuadro:
 ![image](https://user-images.githubusercontent.com/61068392/160202256-01e84c97-48a0-4866-a7cf-b5c82f22b039.png)
+
+*   Observación; Explicación de lo que se arregló o mejoró.
+*   Generar Objetos: Tener mucho cuidado, porque le saldrá una advertencia, donde le pedirá confirmación para generar el Número de Req para la instalación.
+![image](https://user-images.githubusercontent.com/61068392/160204112-2c32288e-5954-4eef-8b3c-155005375d3d.png)
 
 
 #
