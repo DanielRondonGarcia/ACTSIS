@@ -31,8 +31,20 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 
 *   Observación; Explicación de lo que se arregló o mejoró.
 *   Generar Objetos: Tener mucho cuidado, porque le saldrá una advertencia, donde le pedirá confirmación para generar el Número de Req para la instalación.
-![image](https://user-images.githubusercontent.com/61068392/160204112-2c32288e-5954-4eef-8b3c-155005375d3d.png)
 
+![image](https://user-images.githubusercontent.com/61068392/160204112-2c32288e-5954-4eef-8b3c-155005375d3d.png)
+¡Debe darle en si!
+`Lo que hace es ir a buscarme en el proyecto asociado al Req y va a traer los objetos que tienen que ver con el Req`.
+
+*   El le genera unos check button que dice si lo va a enviar, dar al botón Env para marcar todos.
+*   Scripts de la instalación: se Coloca el nombre del script y las observaciones de lo que hay en el script.
+*   Datos para Pruebas:
+    *   `Carpeta de Desarrollo:` Donde se encuentra la carpeta en el Zeus
+    *   `URL de Repositorio:` Las Rutas de URL que se Utilizan en el SVN
+    *   `Carpeta de Repositorio:` La carpeta donde se encuentra el Req para las pruebas
+    *   Ruta en el Menú: Ruta del menú dentro del SAC
+    *   Observaciones: Es el paso a paso de lo que se debe hacer, sale del proyecto en `Escenarios de Uso`.
+    ![image](https://user-images.githubusercontent.com/61068392/160208141-d8d1a635-026e-4898-902e-87e656df0090.png)
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
