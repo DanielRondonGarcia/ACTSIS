@@ -3,15 +3,8 @@
 ## Índice de contenido
 
 *   [Definición](#definición)
-*   [Preparación](#preparación)
-*   [Pedido](#pedido)
-*   [Negociación](#negociación)
-*   [Promesas mutuas](#promesas-mutuas)
-*   [Ejecución](#ejecución)
-*   [Declaración de término](#Declaración-de-término)
-*   [Evaluación de satisfacción](#evaluación-de-satisfacción)
-*   [Declara Satisfacción](#declara-satisfacción)
-*   [Ejemplo](#Ejemplo)
+*   [Instalación](#Instalación)
+*   [Formatos](#Formatos)
 
 ### **Definición**
 
@@ -26,6 +19,32 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 ![image](https://user-images.githubusercontent.com/61068392/160190827-37bf0610-ec48-4b14-be6c-43663e013b3d.png)
 
 
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Instalación**
+
+*   Casilla Envio cliente? :si lo marco quiere decir que lo estoy enviando directa, cuando no lo marco quiere decir que la instalación va a estar en `"Stan by"`.
+*   Pre Requisitos: Es el resultado de haber hecho el req
+![image](https://user-images.githubusercontent.com/61068392/160202256-01e84c97-48a0-4866-a7cf-b5c82f22b039.png)
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Formatos**
+*   Importante: Encoding in UTF-8
+*   ¿Cuales se Wrap?
+    *   Ruta en el Teams: Si el PK se encuentra en la lista, debe ir Wrapped
+    ```
+    Equipos/SAC/General/Archivos/Paquetes con wrap.pdf
+    ```
+*   Tipos de Instlación:
+    *   Nueva
+    *   Complementaria: solo se envian losobjetos que van de más.
+    *   Sustituyente: la anterior no aplica, etnonces debe tener en cuenta todos los objetos.
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
