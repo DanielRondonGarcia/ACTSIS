@@ -4,6 +4,7 @@
 
 *   [Definición](#definición)
 *   [Instalación](#Instalación)
+*   [FI-14](#FI-14)
 *   [Formatos](#Formatos)
 
 ### **Definición**
@@ -50,6 +51,14 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 [🔝 Volver al índice](#índice-de-contenido)
 #
 
+### **FI-14**
+![image](https://user-images.githubusercontent.com/61068392/160208355-b4a0da4e-62db-42db-9b75-0bc4210b417b.png)
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
 ### **Formatos**
 *   Importante: Encoding in UTF-8
 *   ¿Cuales se Wrap?
@@ -64,4 +73,3 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
-
