@@ -68,10 +68,17 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
     ```
     Equipos/SAC/General/Archivos/Paquetes con wrap.pdf
     ```
-*   Tipos de Instlación:
+*   ### **Tipos de Instalación**:
     *   Nueva
     *   Complementaria: solo se envian losobjetos que van de más.
     *   Sustituyente: la anterior no aplica, etnonces debe tener en cuenta todos los objetos.
+
+*   ### **Acciones a realizar**:
+El estandar es que todas van para pruebas
+    *   Prueba
+    *   Revisión: Ya hubo un ciclo de pruebas.
+
+
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
@@ -101,11 +108,24 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 6. Despues de verificar lo anterior, tenemos que poner el estado del Req en `G :Integración` a nombre de la Ing. Liliana por ejemplo y la fecha fin estado.
 7. Volvemos otra vez al botón de Py
 8. Revisar a nivel de carpeta:
-   *  En Obd tener todos los objetos que se tocaron [¿Cuales se Wrap?](#¿Cuales-se-Wrap?)
+   *  En Obd tener todos los objetos que se tocaron [¿Cuales se Wrapean?](#cuales-se-wrap)
    *  Tener encuenta que la decodificacion debe estar en UTF-8
 9. Despues debemos ir al botón de Instalaciones estando parado en el Requerimiento
 10. Nos paramos en instlaciones y damos `F6` para agregar un nuevo registro
-   *  En empresa
+   *  En empresa la cual le vamos a hacer la instalación
+   *  Poner el tipo de instalación [Tipos de Instalación](#Tipos-de-Instalación)
+   *  Acción: se definen las [Acciones a realizar](#Acciones-a-realizar)
+   *  Envio Cliente?: es muy importante principalmente para Paula que es la que hace los despliegues, para ella poder meter el Req a despliegue, se supone que está casilla debe estar desmarcada, si está marcada quiere decir que la estoy enviando directa
+   *  El responsable de la instalación
+   *  Tab ....
+11. Los pre Requisitos se los da la persona que le mandó a que hiciera la instalación.
+12. En observación: va un texto que indique está instalacion cual es la parte funcional de está instalación. `F10`
+13. `F7` Y `F8`
+14. Ya le genera numero de instalación (Anotar ese número de instalación)
+15. Despues le damos al Botón + que está en Requerimientos de la Instalación
+16. 
+
+
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
