@@ -54,8 +54,33 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 #
 
 ### **FI-14**
+Nos saldrá una advertencia.
+*  Si le damos si, nos generará un FI-14 que solo se usa para Roadmap, una hoja por cada objeto
+*  `No` para todo en una sola Hoja, Nosotros siempre le damos en NO
 ![image](https://user-images.githubusercontent.com/61068392/160208355-b4a0da4e-62db-42db-9b75-0bc4210b417b.png)
+Luego le damos en generar Reporte
+![image](https://user-images.githubusercontent.com/61068392/160504787-8af028d7-8b67-4a83-9a58-3570204d4528.png)
+Generalmente se guarda en C:/Listados
+Le cambiamos el nombre del archivo con el siguiente formato
+```
+FI-14 Registro de Instalación 2022-03-25-01_74981 >>>> Nombre del FI-14 (Cambia fecha_#RQ al final)
+```
 
+Luego entramos al archivo y quitamos lo que no se necesita, ponemos en color negro y sin cursiva en los objetos, se acomoda el ancho, quitar texto de la primera fila y primer col.
+
+En Condiciones Generales poner el Siguiente Formato:
+```
+Ejecutar los script en HORARIO NO LABORAL, con los usuarios de la nomenclatura de cada script, en el orden que lo indique el número ubicado antes del tipo
+de script.
+"Ejecutar el script ###.sql con usuario SAC.
+"Ejecutar el script #sql con usuario GEN.
+                                                                                          
+Mover los ejecutables de las formas a su respectiva ubicación: .\EXE\FMX\
+Mover los ejecutables de las ayudas en línea de las formas a su respectiva ubicación: ..NEXEVHLPI
+Mover los ejecutables de los reportes Report a su respectiva ubicación: .NEXEIREPI
+Mover los ejecutables de los reportes SQL a su respectiva ubicación: ..\EXEISQLI
+Mover los ejecutables de las plantillas a su respectiva ubicación: ..NEXEVLSI
+```
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
