@@ -41,7 +41,7 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 
 *   El le genera unos check button que dice si lo va a enviar, dar al botón Env para marcar todos.
 *   Scripts de la instalación: se Coloca el nombre del script y las observaciones de lo que hay en el script.
-*   Datos para Pruebas:
+*   ### **Datos para Pruebas**:
     *   `Carpeta de Desarrollo:` Donde se encuentra la carpeta en el Zeus
     *   `URL de Repositorio:` Las Rutas de URL que se Utilizan en el SVN
     *   `Carpeta de Repositorio:` La carpeta donde se encuentra el Req para las pruebas
@@ -129,7 +129,9 @@ Aquí deberia salirme el numero del Req, lo marcamos y damos en ACEPTAR, si no m
 17. Marcar todos los bojetos en Enviar
 18. Luego ponemos los Scripts de la instalación que está dentro de la Carpeta del Req/Exe/Scr Ejemplo: `\\zeus\ACTSIS\ACTSIS\SAC\Des\75010\Exe\Scr` y en observación ponemos lo que tiene el script y el responsable del script por ejemplo "68918_01_01_WGR_O_SAC.sal > Script de Objetos de SAC"
 "
-19. Despues le damos en Datos para Pruebas [Generar Objetos](#Generar-Objetos)
+19. Despues le damos en Datos para Pruebas [Datos para Pruebas](#Datos-para-Pruebas), cerrar y dar `F10`.
+20. Creamos dentro de la Carpeta del Req/App/Doc la Revisión de integración.
+21. [FI-14](#FI-14)
 
 
 #
