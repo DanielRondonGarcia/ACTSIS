@@ -157,6 +157,168 @@ Aquí deberia salirme el numero del Req, lo marcamos y damos en ACEPTAR, si no m
 19. Despues le damos en Datos para Pruebas [Datos para Pruebas](#Datos-para-Pruebas), cerrar y dar `F10`.
 20. Creamos dentro de la Carpeta del Req/App/Doc la Revisión de integración.
 21. [FI-14](#FI-14)
+22. Luego hacemos el correo
+```
+Buenas tardes, Ing. XXXX ( ing. que vaya a pasar finalmente a pruebas…)
+
+ 
+
+Paola favor probar y  enviar con DESPLIEGUE a todas las empresas (ó Paola favor probar y realizar envió directo a AAAAA y/o por DESPLIEGUE a las demás empresas. )
+
+Paola, se sugiere a Zaryler, o Edgar para realizar la prueba ya que conoce detalles importantes del requerimiento. (opcional solo si aplica)
+
+ 
+
+Se genera la instalación para AAAA N. ####
+
+La carpeta del requerimiento es:    \\Zeus\actsis\ACTSIS\SAC\Des\xxxx(yyy)
+
+Branch SAC_BD: https://svn.actsis.com/svn/SAC_BD/branches/xxxxx
+
+ 
+
+Desarrollos realizados:
+
+Texto de las mejoras en cuanto a funcionalidad
+
+ 
+
+Objetos modificados:
+
+Parámetro AAAAAAAAA 5.##.ACTSIS
+Texto del cambio (generalmente la observación de la versión)
+
+Paquete AAAAAA v. 5.##.ACTSIS
+Texto del cambio (generalmente la observación de la versión)
+
+ 
+
+Esta parte Dejar en correo de salida desde aquí: solo se deja si el req sale solo sin cuadro de cambios o sea si es envio directo y se necesita dar claridad. (opcional)
+
+Dejar en correo de salida desde aquí:
+
+ 
+
+Funcionalidades modificadas, mejora que se entrega, aclaraciones que se deseen dar como configuraciones que debe hacer el cliente, etc.
+
+            Si amerita nombrar algún parámetro importante que activa la funcionalidad. O multitabla. O enviar una foto de como quedo el cambio de alguna factura, etc…
+
+ 
+
+Hasta aquí.
+
+ 
+
+Informe de cambios (actualizar del archivo publicado en TEAMS para estar al día con los cambios):
+
+EMPRESA ORIGEN
+(Empresa que origina la solicitud)
+
+EMPRESA SGI
+(Empresa del req SGI)
+
+NUM. REQ
+
+MODULO
+(Módulo del sistema al que pertenece la funcionalidad)
+
+FUNCIONALIDAD
+(Nombre de la funcionalidad afectada)
+
+MEJORAS/AJUSTES
+(Objetivo del cambio con enfoque funcional)
+
+REQ RELAC.
+(SI existe un req ext que originó el cambio)
+
+Razón del cambio
+(Justificación del origen, indicar condiciones especiales por empresa (restricciones))
+
+CONTACTO
+(Soporte para validación)
+
+ESCENARIOS
+(No diligenciar)
+
+COMPLEJIDAD DE LA PRUEBA
+
+RESPONSABLE
+(Desarrollador)
+
+BASE
+(Indica si incluye objetos de base)
+
+Obj. GEN (Indica si el desarrollo incluye objetos del General)
+
+EMPRESAS A IMPLANTAR
+(El cambio se debe enviar a la empresa ?(S/N) - El cambio de debe informar a esa empresa? (S/N))
+
+CENS
+
+CHEC
+
+EDEQ
+
+ESSA
+
+EEP
+
+SOPESA
+
+SOPESA
+
+SOPESA
+
+70375
+
+RECAUDOS
+
+Web Service de Recaudo de SOPESA
+
+Modificación de los métodos de Consulta e Ingreso de Pago del WebService de Recaudo de SOPESA para adicionar validaciones respecto a fecha de vencimiento de la factura, valor de la factura, valor de la deuda, entre otros.
+
+ 
+
+SOPESA está realizando la implementación del WebService de Recaudo con el Banco de Occidente y el tercero FASTTRACK, en las pruebas de implementación surgen necesidades y solicitudes respecto a validaciones y manejos requeridos para ampliar la calidad de los métodos a utilizar.
+
+ 
+
+ 
+
+MEDIA
+
+GDURAN
+
+S
+
+N
+
+SN
+
+SN
+
+SN
+
+SN
+
+SN
+
+NN
+
+ 
+
+Prerequisitos: (opcional)
+
+Revisión de integración: (se está revisando con el sql que envio Jorge en el correo de Correo del 17/08/2021 con el asunto: ACTSIS - SAC - Consulta de objetos, parámetros y multitablas en las Empresas)
+
+La integración se puede observar en el archivo AAAAAAAAAA de la ruta: \\Zeus\actsis\ACTSIS\SAC\Des\xxxx\App\Doc
+
+Detalles de la integración si se requieren (opcional)
+
+ 
+
+El requerimiento pasa a Integración a nombre de AAAAA.
+```
 
 
 #
