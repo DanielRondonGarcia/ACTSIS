@@ -123,7 +123,9 @@ El estandar es que todas van para pruebas
 13. `F7` Y `F8`
 14. Ya le genera numero de instalación (Anotar ese número de instalación)
 15. Despues le damos al Botón + que está en Requerimientos de la Instalación
-16. 
+![image](https://user-images.githubusercontent.com/61068392/160503429-e0cfabf9-7c42-4c3f-843c-87b6f44adca7.png)
+Aquí deberia salirme el numero del Req, lo marcamos y damos en ACEPTAR, si no me sale es porque faltó ponerlo en `G :Integración`.
+16. Dar clicl en el botón generar Objetos
 
 
 #
