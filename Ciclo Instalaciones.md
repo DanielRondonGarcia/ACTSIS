@@ -7,6 +7,7 @@
 *   [FI-14](#FI-14)
 *   [Formatos](#Formatos)
 *   [Duplicación de Instalaciones](#Duplicación-de-Instalaciones)
+*   [Paso a Paso](#Paso-a-Paso)
 
 ### **Definición**
 
@@ -62,7 +63,7 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 
 ### **Formatos**
 *   Importante: Encoding in UTF-8
-*   ¿Cuales se Wrap?
+*   ### **¿Cuales se Wrap?**
     *   Ruta en el Teams: Si el PK se encuentra en la lista, debe ir Wrapped
     ```
     Equipos/SAC/General/Archivos/Paquetes con wrap.pdf
@@ -87,6 +88,24 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
 ![image](https://user-images.githubusercontent.com/61068392/160473864-14ea949f-62b1-4c71-a248-e930fc712262.png)
 
 
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Paso a Paso**
+1. Buscar el Requerimiento
+2. Revisar si el Requerimiento se encuentra en estado `T :Tramite` ya asociado al proyecto
+3. Revisar que las casillas ya estén diligenciadas.
+4. Revisar en Diseño de objetos que todas las modificaciones tengan la versión base a excepción de los objetos nuevos.
+5. Revisar si el Req interno ya cuenta con una aprovación (Los 3 chulitos)
+6. Despues de verificar lo anterior, tenemos que poner el estado del Req en `G :Integración` a nombre de la Ing. Liliana por ejemplo y la fecha fin estado.
+7. Volvemos otra vez al botón de Py
+8. Revisar a nivel de carpeta:
+   *  En Obd tener todos los objetos que se tocaron [¿Cuales se Wrap?](#¿Cuales-se-Wrap?)
+   *  Tener encuenta que la decodificacion debe estar en UTF-8
+9. Despues debemos ir al botón de Instalaciones estando parado en el Requerimiento
+10. Nos paramos en instlaciones y damos `F6` para agregar un nuevo registro
+   *  En empresa
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
