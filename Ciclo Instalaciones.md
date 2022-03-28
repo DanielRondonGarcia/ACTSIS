@@ -6,6 +6,7 @@
 *   [Instalación](#Instalación)
 *   [FI-14](#FI-14)
 *   [Formatos](#Formatos)
+*   [Duplicación de Instalaciones](#Duplicación-de-Instalaciones)
 
 ### **Definición**
 
@@ -70,6 +71,22 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
     *   Nueva
     *   Complementaria: solo se envian losobjetos que van de más.
     *   Sustituyente: la anterior no aplica, etnonces debe tener en cuenta todos los objetos.
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Duplicación de Instalaciones**
+¿Qué se necesita?
+*  El Req Origen (Generalmente un Req ACTSIS) este en está D : para Envio que halla pasado por la parte de soporte
+
+1. Empresa: cick derecho para elegir la empresa.
+2. Contrato: El contrato que corresponde
+3. Proyecto: va ligado al contrato
+4. Proyecto ID: Tenemos que colocar el proyecto donde cae el Req por ejemplo `(Actualización del mes de octubre para la ESSA)`
+
+![image](https://user-images.githubusercontent.com/61068392/160473864-14ea949f-62b1-4c71-a248-e930fc712262.png)
+
+
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
