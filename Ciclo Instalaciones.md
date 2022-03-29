@@ -102,7 +102,8 @@ Mover los ejecutables de las plantillas a su respectiva ubicación: ..NEXEVLSI
 El estandar es que todas van para pruebas
     *   Prueba
     *   Revisión: Ya hubo un ciclo de pruebas.
-
+*  Errores
+   *  Solo para CELSIA diligenciar carpeta de Pru (Pruebas), si es otro cualquier caso se diligenciará: N\A
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
