@@ -45,7 +45,7 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
     *   `Carpeta de Desarrollo:` Donde se encuentra la carpeta en el Zeus
     *   `URL de Repositorio:` Las Rutas de URL que se Utilizan en el SVN
     *   `Carpeta de Repositorio:` La carpeta donde se encuentra el Req para las pruebas
-    *   *   Solo para CELSIA diligenciar carpeta de Pru (Pruebas), si es otro cualquier caso se diligenciará: N\A
+        *   Solo para CELSIA diligenciar carpeta de Pru (Pruebas), si es otro cualquier caso se diligenciará: N\A
     *   Ruta en el Menú: Ruta del menú dentro del SAC
     *   Observaciones: Es el paso a paso de lo que se debe hacer, sale del proyecto en `Escenarios de Uso`.
     ![image](https://user-images.githubusercontent.com/61068392/160208141-d8d1a635-026e-4898-902e-87e656df0090.png)
