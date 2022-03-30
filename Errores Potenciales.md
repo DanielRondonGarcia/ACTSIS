@@ -19,6 +19,7 @@ Ver los errores que generalmente sucede
     Como el to_char debe estar en `TO_CHAR` y el formato de fecha en Mayusculas tambien.
   * Cualquier Requerimiento que tenga reportes debe tener una subcarpeta en App con el nombre `Out` que soporte el reporte 
   * Siempre comentar el codigo
+  * Maximo 3 comentarios de las ultimas versiones en los objetos - Preguntar a la Ing. Lili
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
