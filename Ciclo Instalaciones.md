@@ -145,7 +145,7 @@ El estandar es que todas van para pruebas
 15. Despues le damos al Botón + que está en Requerimientos de la Instalación
 ![image](https://user-images.githubusercontent.com/61068392/160503429-e0cfabf9-7c42-4c3f-843c-87b6f44adca7.png)
 Aquí deberia salirme el numero del Req, lo marcamos y damos en ACEPTAR, si no me sale es porque faltó ponerlo en `G :Integración`.
-16. Dar clicl en el botón generar Objetos [Generar Objetos](#Generar-Objetos)
+16. Dar clicl en el botón generar Objetos [Generar Objetos](#generar-objetos-tener-mucho-cuidado-porque-le-saldrá-una-advertencia-donde-le-pedirá-confirmación-para-generar-el-número-de-req-para-la-instalación)
 17. Marcar todos los bojetos en Enviar
 18. Luego ponemos los Scripts de la instalación que está dentro de la Carpeta del Req/Exe/Scr Ejemplo: `\\zeus\ACTSIS\ACTSIS\SAC\Des\75010\Exe\Scr` y en observación ponemos lo que tiene el script y el responsable del script por ejemplo "68918_01_01_WGR_O_SAC.sal > Script de Objetos de SAC"
 "
