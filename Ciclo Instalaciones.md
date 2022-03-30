@@ -47,7 +47,7 @@ Se supone que cuando ya se va a hacer una instalación, sea un Req nuestro o alg
     *   `Carpeta de Repositorio:` La carpeta donde se encuentra el Req para las pruebas
         *   Solo para CELSIA diligenciar carpeta de Pru (Pruebas), si es otro cualquier caso se diligenciará: N\A
     *   Ruta en el Menú: Ruta del menú dentro del SAC
-    *   Observaciones: Es el paso a paso de lo que se debe hacer, sale del proyecto en `Escenarios de Uso`.
+    *   Observaciones: Son las cosas adicionales que debe tener en cuenta el de pruebas fuera de lo especificado del escenario de pruebas.
     ![image](https://user-images.githubusercontent.com/61068392/160208141-d8d1a635-026e-4898-902e-87e656df0090.png)
 
 #
@@ -71,16 +71,9 @@ Luego entramos al archivo y quitamos lo que no se necesita, ponemos en color neg
 
 En Condiciones Generales poner el Siguiente Formato:
 ```
-Ejecutar los script en HORARIO NO LABORAL, con los usuarios de la nomenclatura de cada script, en el orden que lo indique el número ubicado antes del tipo
-de script.
-"Ejecutar el script ###.sql con usuario SAC.
-"Ejecutar el script #sql con usuario GEN.
-                                                                                          
-Mover los ejecutables de las formas a su respectiva ubicación: .\EXE\FMX\
-Mover los ejecutables de las ayudas en línea de las formas a su respectiva ubicación: ..NEXEVHLPI
-Mover los ejecutables de los reportes Report a su respectiva ubicación: .NEXEIREPI
-Mover los ejecutables de los reportes SQL a su respectiva ubicación: ..\EXEISQLI
-Mover los ejecutables de las plantillas a su respectiva ubicación: ..NEXEVLSI
+Ejecutar en HORARIO NO LABORAL los script:
+75010_01_01_OSP_O_SAC.SQL con usuario SAC
+75010_01_02_OSP_O_SAC.sql con usuario SAC
 ```
 
 #
