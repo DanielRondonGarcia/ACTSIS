@@ -20,6 +20,12 @@ Ver los errores que generalmente sucede
   * Cualquier Requerimiento que tenga reportes debe tener una subcarpeta en App con el nombre `Out` que soporte el reporte 
   * Siempre comentar el codigo
   * Maximo 3 comentarios de las ultimas versiones en los objetos - Preguntar a la Ing. Lili
+  * Cuando se crea un parametro, hay 4 cosas minimas que se deben hacer
+    1. Registrarlo en Teams
+    2. Registrarlo en el SGI
+    3. Generar Script inserción de parametros
+    4. y si es Multitablas se debe crear en SVN
+  *  
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
