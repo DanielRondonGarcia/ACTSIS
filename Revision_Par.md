@@ -1,4 +1,4 @@
-# Ciclo de Instalación
+# Revisión Par
 
 ## Índice de contenido
 
