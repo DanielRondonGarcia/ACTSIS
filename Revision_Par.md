@@ -3,6 +3,13 @@
 ## Índice de contenido
 
 *   [Paso 1 - Branch](#paso-1---branch)
+*   [Paso 2 - Notas de Versión](#paso-2---notas-de-versión)
+*   [Paso 3 - Verificación del codigo](#paso-3---verificación-del-codigo)
+*   [Paso 4 - Verificación si el objeto no se wrappea](#paso-4---verificación-si-el-objeto-no-se-wrappea)
+*   [Paso 5 - Verificar si lleva spool y el tipo de script](#paso-5---verificar-si-lleva-spool-y-el-tipo-de-script)
+*   [Paso 6 - Verificar FI-14](#paso-6---verificar-fi-14)
+*   [Paso 7 - Verificar la integración](#paso-7---verificar-la-integración)
+*   [Paso 8 - Verificar Informe de cambios](#paso-8---verificar-informe-de-cambios)
 
 ### **Paso 1 - Branch**
 
@@ -66,12 +73,12 @@ A = para auditoria
 *Dejar el Req ext
 *Nombre de objetos y script sean correctos
 
-### **Paso 6 - Verificar la integración**
+### **Paso 7 - Verificar la integración**
 *Verificar si es para todas las empresar solo cuando es despliegue
 *Verificar si la versión anterior es la correcta a la de la del documento
 *se omite las versiones temporales
 
-### **Paso 6 - Verificar Informe de cambios**
+### **Paso 8 - Verificar Informe de cambios**
 *Funcionalidad no va nada técnico
 *MejoraAjustes es la explicación al minimo detalle del cambio
 ![image](https://user-images.githubusercontent.com/61068392/170584850-cb1a27d8-25e5-4d44-9635-a3a37cabc09c.png)
