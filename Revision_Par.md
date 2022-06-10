@@ -13,7 +13,7 @@
 *   [Paso 9 - SGI](#paso-9---SGI)
 *   [Paso 10 - Correo](#paso-9---SGI)
 *   [Paso 11 - Carpeta](#paso-9---SGI)
-*   [Paso 12 - Aspectos especiales](#paso-9---SGI)
+*   [Paso 12 - Aspectos especiales](#paso-12---aspectos-especiales)
 
 
 ### **Paso 1 - Branch**
