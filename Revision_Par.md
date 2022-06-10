@@ -11,7 +11,7 @@
 *   [Paso 7 - Verificar la integración](#paso-7---verificar-la-integración)
 *   [Paso 8 - Verificar Informe de cambios](#paso-8---verificar-informe-de-cambios)
 *   [Paso 9 - SGI](#paso-9---SGI)
-*   [Paso 10 - Correo](#paso-9---Correo)
+*   [Paso 10 - Correo](#paso-10---correo)
 *   [Paso 11 - Carpeta](#paso-11---carpeta)
 *   [Paso 12 - Aspectos especiales](#paso-12---aspectos-especiales)
 
