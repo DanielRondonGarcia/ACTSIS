@@ -10,6 +10,11 @@
 *   [Paso 6 - Verificar FI-14](#paso-6---verificar-fi-14)
 *   [Paso 7 - Verificar la integración](#paso-7---verificar-la-integración)
 *   [Paso 8 - Verificar Informe de cambios](#paso-8---verificar-informe-de-cambios)
+*   [Paso 9 - SGI](#paso-9---SGI)
+*   [Paso 10 - Correo](#paso-9---SGI)
+*   [Paso 11 - Carpeta](#paso-9---SGI)
+*   [Paso 12 - Aspectos especiales](#paso-9---SGI)
+
 
 ### **Paso 1 - Branch**
 
@@ -17,25 +22,54 @@ Verificar si lleva branch.
 El numero del Requerimiento debe ser con el interno, NO EL EXTERNO
 Si lleva branch, empezar a revisar el codigo de cada objeto desde el branch.
 si el objeto es nuevo, revisar si se agregó al maestro
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
 
 #
 
 ### **Paso 2 - Notas de Versión**
 
-*No deben ir numeros de Requerimientos
-*Revisar que la descripción sea acorde al cambio realizado
-*En el body solo va la nota de versión actual, es decir, no deben de haber notas de versión antiguas
-*Revisar que las fechas sean las misma de la ultima modificación del archivo y sea la misma al de la carpeta zeus o el branch o si es el caso en el SGI cuando son versiónes propias de empresas
-*Tambien revisar si la fecha del objeto está actualizado en el SGI en el apartado de objetos
-*Verificar las versiones sean las correctas
+*   No deben ir numeros de Requerimientos
+*   Revisar que la descripción sea acorde al cambio realizado
+*   En el body solo va la nota de versión actual, es decir, no deben de haber notas de versión antiguas
+*   Revisar que las fechas sean las misma de la ultima modificación del archivo y sea la misma al de la carpeta zeus o el branch o si es el caso en el SGI cuando son versiónes propias de empresas
+*   Tambien revisar si la fecha del objeto está actualizado en el SGI en el apartado de objetos
+*   Verificar las versiones sean las correctas
+*   Quitar comentarios de versión en la línea
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
 
 ### **Paso 3 - Verificación del codigo**
-Se debe probar el desarrollo realizado
-Verificar codigo sea el mismo en las diferentes partes como SGI, Zeus, SNN y Script
+* Se debe probar el desarrollo realizado
+* Verificar codigo sea el mismo en las diferentes partes como SGI, Zeus, SVN y Script
+* No dejar nada comentado que no sea nada funcional
+* Alineación del código
+#### Estandar:
+  *   Diferente es `"<>"` y no así `"!="`
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
 
 ### **Paso 4 - Verificación si el objeto no se wrappea**
 Verificar en el archivo ubicado en el grupo SAC
 https://actsis.sharepoint.com/:b:/s/SAC/ETkGkIbpFItCoiS0b_VfvnEBiLLfdsYq7EJSc0HnS5CV9Q?e=fH4lLv
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
 
 ### **Paso 5 - Verificar si lleva spool y el tipo de script**
 Ir a verificar si
@@ -68,18 +102,98 @@ D = para datos = INSERT, DELETE, UPDATE
 A = para auditoria 
 ```
 
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
 ### **Paso 6 - Verificar FI-14**
 *Instalación sea una sola
 *El nombre sea el mismo al del archivo
 *Dejar el Req ext
 *Nombre de objetos y script sean correctos
 
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
 ### **Paso 7 - Verificar la integración**
 *Verificar si es para todas las empresar solo cuando es despliegue
 *Verificar si la versión anterior es la correcta a la de la del documento
 *se omite las versiones temporales
 
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
 ### **Paso 8 - Verificar Informe de cambios**
 *Funcionalidad no va nada técnico
 *MejoraAjustes es la explicación al minimo detalle del cambio
 ![image](https://user-images.githubusercontent.com/61068392/170584850-cb1a27d8-25e5-4d44-9635-a3a37cabc09c.png)
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
+### **Paso 9 - SGI**
+*   Solo por despliegue se pone el INFORME_CAMBIOS
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
+### **Paso 10 - Correo**
+*   Manejar la mismo tamaño y tipo de letra.
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
+### **Paso 11 - Carpeta**
+*   Cuando son reportes, se crea fichro al mismo nivel del Scr.
+
+    Ejemplo:
+    ```
+    //74884--
+            |-App--.
+            |-Exe--
+                   |-Scr
+                   |-Sql
+                   |-Crystal
+                   |-Etc.
+    ```
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
+
+### **Paso 12 - Aspectos especiales**
+*   ESPY no lleva reportes Progen, solo reportes
+
+
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+#
