@@ -21,7 +21,8 @@
 Verificar si lleva branch.
 * El numero del Requerimiento debe ser con el interno, NO EL EXTERNO
 * Si lleva branch, empezar a revisar el codigo de cada objeto desde el branch.
-* si el objeto es nuevo, revisar si se agregó al maestro
+* si el objeto es nuevo, revisar si se agregó al maestro en orden alfabetico.
+* Veificar si el tipo de objeto está en la carpeta correcta.
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
