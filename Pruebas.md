@@ -42,7 +42,7 @@ Ejemplo:
 * Nos dirigimos a la ruta del Zeus (Des)
 * Debemos copiar y pegar la carpeta del Rq dentro de `Pru`, luego debemos eliminar la carpeta dentro de `Des` (No cortar!)
 * Despues dentro de `Exe` creamos una carpeta llamada `Doc`
-* Pegamos la ultima versión del formato de pruebas [(\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
+* Pegamos la ultima versión del formato de pruebas (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
 
 * Identificar el objetivo general [Contenido](https://svn.actsis.com/svn/SGC/Guías-Desarrollo/EscenarioDePrueba/Contenido)
 * Verificar con el branch y el diseño obtenido del SGI que tenga los mismos objetos modificados
@@ -71,7 +71,7 @@ Pueden ser error de sintaxis y ortografia, generalidades, etc.
 * Compilar los proyectos y verificar que estén correctos
 
 Publicación
-=============
+===========
 Instructivo: (\\\zeus\SGC\DOCUMENTOS_SGC\Mantenimiento y Desarrollo\Instructivos\IM-09 Instalación de Aplicaciones .NET.DOCX)
 * Clic derecho al proyecto web y vamos a la opcion `Publicar`
 * Todas se llaman  `presentación.ACTSIS`
@@ -95,6 +95,15 @@ Instructivo: (\\\zeus\SGC\DOCUMENTOS_SGC\Mantenimiento y Desarrollo\Instructivos
 
 * Vamos iterando por los escenarios de uso y revisando funcionalidad  (Tambien a nivel de codigo)
 * Vamos diligenciado el escenario de pruebas de la pantalla que se está revisando
+
+Hallazgos
+=========
+
+El formato se encuentra en: (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos\FI-24_Reporte de Hallazgos.docx)
+* Se guarda en una carpeta especial con la siguiente estructura:
+        *       ```
+                →App/Pru/hallazgos
+                ```
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
