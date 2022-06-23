@@ -30,9 +30,17 @@ SELECT :REQ || '----------------------------------------------------------------
 FROM    sgi.pry_requerimientos      pry_req
 WHERE   numero_requerimiento =      :REQ
 ```
+
 Ejemplo:
+
 ![image](https://user-images.githubusercontent.com/61068392/175323490-f5be3535-6d24-457a-b739-4020e633c82d.png)
 
+* Revisar objetos modificados a nivel de SGI
+* agregar dichos objetos con su descripción en Diseño
+* Nos dirigimos a la ruta del Zeus (Des)
+* Debemos copiar y pegar la carpeta del Rq dentro de `Pru`, luego debemos eliminar la carpeta dentro de `Des` (No cortar!)
+* Despues dentro de `Exe` creamos una carpeta llamada `Doc`
+* Pegamos la ultima versión del formato de pruebas (\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
