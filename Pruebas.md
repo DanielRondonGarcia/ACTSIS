@@ -101,9 +101,10 @@ Hallazgos
 
 El formato se encuentra en: (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos\FI-24_Reporte de Hallazgos.docx)
 * Se guarda en una carpeta especial con la siguiente estructura:
-        *       ```
+               ```
                 →App/Pru/hallazgos
                 ```
+* Si se requiere, dentro de hallazgos se crea carpeta de anexos donde se agregan todos los anexos
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
