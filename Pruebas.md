@@ -4,6 +4,7 @@
 
 *   [Paso 1 - Contextualización de la prueba en el correo](#paso-1---Contextualización-de-la-prueba-en-el-correo)
 *   [Paso 2 - Construcción de escenarios de prueba](#paso-1---Construcción-de-escenarios-de-prueba)
+*   [Paso 3 - Montar y compilar la solucion en Visual Studio](#paso-1---Montar-y-compilar-la-solucion-en-Visual-Studio)
 
 ### **Paso 1 - Contextualización de la prueba en el correo**
 
@@ -40,7 +41,47 @@ Ejemplo:
 * Nos dirigimos a la ruta del Zeus (Des)
 * Debemos copiar y pegar la carpeta del Rq dentro de `Pru`, luego debemos eliminar la carpeta dentro de `Des` (No cortar!)
 * Despues dentro de `Exe` creamos una carpeta llamada `Doc`
-* Pegamos la ultima versión del formato de pruebas [here](\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
+* Pegamos la ultima versión del formato de pruebas [(\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
+
+* Identificar el objetivo general [Contenido](https://svn.actsis.com/svn/SGC/Guías-Desarrollo/EscenarioDePrueba/Contenido)
+* Verificar con el branch y el diseño obtenido del SGI que tenga los mismos objetos modificados
+* Verificar objetos de base de datos en los scripts
+* Ejecutar cada Script y verificar funcionamiento del mismo
+  * Ejemplo:
+  * 
+  ```sql
+  @\\zeus\ACTSIS\ACTSIS\GEN\Pru\57817\Exe\Scr\57817_01_01_MVC_O_GEN.sql
+  ```
+
+Observaciones
+=============
+
+Pueden ser error de sintaxis y ortografia, generalidades, etc.
+
+* Ir diligenciando las observaciones con su imagen
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Paso 3 - Montar y compilar la solucion en Visual Studio**
+
+* Verificar si en pre-requisitos necesita un repositorio aparte (Se deberá descargar el repositorio al mismo nivel del resto de repositorios y con el mismo nombre)
+* Compilar los proyectos y verificar que estén correctos
+
+Publicación
+=============
+Instructivo: (\\\zeus\SGC\DOCUMENTOS_SGC\Mantenimiento y Desarrollo\Instructivos\IM-09 Instalación de Aplicaciones .NET.DOCX)
+* Clic derecho al proyecto web y vamos a la opcion `Publicar`
+* Todas se llaman  `presentación.ACTSIS`
+* Encontramos 3 opciones para publicar
+
+  ![image](https://user-images.githubusercontent.com/61068392/175347491-02b6ca48-07eb-4451-b5f8-0fe00bc19e42.png)
+
+* Configuración de los archivos de publicación
+  
+  ![image](https://user-images.githubusercontent.com/61068392/175348197-d5857778-5a6d-4bec-ae4d-3dee628ffa2d.png)
+
 
 
 #
