@@ -3,8 +3,9 @@
 ## Índice de contenido
 
 *   [Paso 1 - Contextualización de la prueba en el correo](#paso-1---Contextualización-de-la-prueba-en-el-correo)
-*   [Paso 2 - Construcción de escenarios de prueba](#paso-1---Construcción-de-escenarios-de-prueba)
-*   [Paso 3 - Montar y compilar la solucion en Visual Studio](#paso-1---Montar-y-compilar-la-solucion-en-Visual-Studio)
+*   [Paso 2 - Construcción de escenarios de prueba](#paso-2---Construcción-de-escenarios-de-prueba)
+*   [Paso 3 - Montar y compilar la solucion en Visual Studio](#paso-3---Montar-y-compilar-la-solucion-en-Visual-Studio)
+*   [Paso 4 - Probar dentro del sitio las funcionalidades afectadas](#paso-4---Probar-dentro-del-sitio-las-funcionalidades-afectadas)
 
 ### **Paso 1 - Contextualización de la prueba en el correo**
 
@@ -82,7 +83,18 @@ Instructivo: (\\\zeus\SGC\DOCUMENTOS_SGC\Mantenimiento y Desarrollo\Instructivos
   
   ![image](https://user-images.githubusercontent.com/61068392/175348197-d5857778-5a6d-4bec-ae4d-3dee628ffa2d.png)
 
+* Hacemos el despligue a nviel local y luego copiamos y pegamos al sitio de nosotros
 
+* Url de mi sition: (file://vmact03/SitiosIIS/DRONDON) (https://drondon.actsis.com/)
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Paso 4 - Probar dentro del sitio las funcionalidades afectadas**
+
+* Vamos iterando por los escenarios de uso y revisando funcionalidad  (Tambien a nivel de codigo)
+* Vamos diligenciado el escenario de pruebas de la pantalla que se está revisando
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
