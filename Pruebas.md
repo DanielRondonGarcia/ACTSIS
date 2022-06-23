@@ -40,7 +40,7 @@ Ejemplo:
 * Nos dirigimos a la ruta del Zeus (Des)
 * Debemos copiar y pegar la carpeta del Rq dentro de `Pru`, luego debemos eliminar la carpeta dentro de `Des` (No cortar!)
 * Despues dentro de `Exe` creamos una carpeta llamada `Doc`
-* Pegamos la ultima versión del formato de pruebas (\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
+* Pegamos la ultima versión del formato de pruebas (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
