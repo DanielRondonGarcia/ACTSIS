@@ -17,7 +17,7 @@
 [🔝 Volver al índice](#índice-de-contenido)
 #
 
-### **Paso 1 - Construcción de escenarios de prueba**
+### **Paso 2 - Construcción de escenarios de prueba**
 Pre-condiciones:
 Guía en repositorio SVN de ACTSIS (https://svn.actsis.com/svn/SGC/Guías-Desarrollo/EscenarioDePrueba)
 * Consultamos el Rq en el SGI
