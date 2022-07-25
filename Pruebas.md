@@ -1,7 +1,5 @@
 # Pruebas GEN
 
-*   Doc: Ficha Técnica:(\\zeus\SGC\DOCUMENTOS_SGC\Mantenimiento y Desarrollo\Formatos) - FM-01 DOCUMENTACION TECNICA PARA FORMAS.doc
-
 ## Índice de contenido
 
 *   [Paso 1 - Contextualización de la prueba en el correo](#paso-1---Contextualización-de-la-prueba-en-el-correo)
