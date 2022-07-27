@@ -6,6 +6,7 @@
 *   [Paso 2 - Construcción de escenarios de prueba](#paso-2---Construcción-de-escenarios-de-prueba)
 *   [Paso 3 - Montar y compilar la solucion en Visual Studio](#paso-3---Montar-y-compilar-la-solucion-en-Visual-Studio)
 *   [Paso 4 - Probar dentro del sitio las funcionalidades afectadas](#paso-4---Probar-dentro-del-sitio-las-funcionalidades-afectadas)
+*   [Paso 5 - COMMIT](#paso-5---COMMIT)
 
 ### **Paso 1 - Contextualización de la prueba en el correo**
 
@@ -105,6 +106,18 @@ El formato se encuentra en: (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\F
                 →App/Pru/hallazgos
                 ```
 * Si se requiere, dentro de hallazgos se crea carpeta de anexos donde se agregan todos los anexos
+
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+
+### **Paso 5 - COMMIT**
+
+* jenkins.runsettings: Cambiar los testCase para conveniencia.
+* Debemos agregar el sitio en App.config del Test (host)
+
+[Tutorial](https://actsis.sharepoint.com/sites/ACTSISQA/SitePages/GenTests-7-1-2563.aspx)
 
 #
 [🔝 Volver al índice](#índice-de-contenido)
