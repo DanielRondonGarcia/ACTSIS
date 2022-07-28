@@ -57,7 +57,7 @@ Ejemplo:
   
 * El escenario de pruebas, al finalizar este documento se guarda bajo el nombre original y se le agrega `_PRUEBAS`
 
-* [Más documentación acerca de las pruebas](file:\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Procedimientos\PI-03 Pruebas internas.docx)
+* [Más documentación acerca de las pruebas](\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Procedimientos\PI-03 Pruebas internas.docx)
 
 Observaciones
 =============
