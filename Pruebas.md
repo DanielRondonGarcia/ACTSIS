@@ -54,6 +54,10 @@ Ejemplo:
   ```sql
   @\\zeus\ACTSIS\ACTSIS\GEN\Pru\57817\Exe\Scr\57817_01_01_MVC_O_GEN.sql
   ```
+  
+* El escenario de pruebas, al finalizar este documento se guarda bajo el nombre original y se le agrega `_PRUEBAS`
+
+* [Más documentación acerca de las pruebas](\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Procedimientos\PI-03 Pruebas internas.docx)
 
 Observaciones
 =============
@@ -96,6 +100,7 @@ Instructivo: (\\\zeus\SGC\DOCUMENTOS_SGC\Mantenimiento y Desarrollo\Instructivos
 
 * Vamos iterando por los escenarios de uso y revisando funcionalidad  (Tambien a nivel de codigo)
 * Vamos diligenciado el escenario de pruebas de la pantalla que se está revisando
+
 
 Hallazgos
 =========
