@@ -7,6 +7,7 @@
 *   [Paso 3 - Montar y compilar la solucion en Visual Studio](#paso-3---Montar-y-compilar-la-solucion-en-Visual-Studio)
 *   [Paso 4 - Probar dentro del sitio las funcionalidades afectadas](#paso-4---Probar-dentro-del-sitio-las-funcionalidades-afectadas)
 *   [Paso 5 - COMMIT](#paso-5---COMMIT)
+*   [Paso 6 - SGI](#paso-6---SGI)
 
 ### **Paso 1 - Contextualización de la prueba en el correo**
 
@@ -124,6 +125,27 @@ El formato se encuentra en: (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\F
 
 [Tutorial](https://actsis.sharepoint.com/sites/ACTSISQA/SitePages/GenTests-7-1-2563.aspx)
 
+#
+[🔝 Volver al índice](#índice-de-contenido)
+#
+
+### **Paso 6 - SGI**
+
+*       Nos dirigimos a `Gestión/Verificación y Validación`.
+*       Buscamos el REQ que probamos
+*       Vamos diligenciando el correo
+        *       ![image](https://user-images.githubusercontent.com/61068392/182729760-87867010-12ee-445c-8289-31ffd792dd19.png)
+*       Luego le damos clic al botón Verificación
+*       Verificamos que sea el # de la instalación
+*       Verificamos cada Requerimiento del cliente
+*       Verificar cada requerimiento funcional (Tiene el mismo nombre al REQ del ciente) y no funcional (por lo general son 3)
+        *       Si no fue posible probarlo seleccionamos `No verificado`
+        *       Agregamos en la Observación `Ok` si pasó y `No Aplica` si no se pudo probar
+        *       En el caso del REQ funcional agregamos la misma observación que tenemos en el Correo
+*       Marcamos verificado el REQ del cliente y de observación ponemos `Pruebas Satisfactorias`
+*       Si hubieron devoluciones marcamos la casilla `Ind.Devol`
+*       No marcar Liberar Instalación
+*       Cambiar de responsable en la ventana `Verificación y Válidación de Instalaciones` a JREYES
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
