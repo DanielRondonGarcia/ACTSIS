@@ -146,6 +146,7 @@ El formato se encuentra en: (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\F
 *       Si hubieron devoluciones marcamos la casilla `Ind.Devol`
 *       No marcar Liberar Instalación
 *       Cambiar de responsable en la ventana `Verificación y Válidación de Instalaciones` a JREYES
+*       ACT[5-31]
 #
 [🔝 Volver al índice](#índice-de-contenido)
 #
