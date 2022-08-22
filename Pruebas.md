@@ -138,7 +138,7 @@ El formato FI-24 se encuentra en: (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Ent
 *       Buscamos el REQ que probamos
 *       Vamos diligenciando el correo
         
-                ![image](https://user-images.githubusercontent.com/61068392/182729760-87867010-12ee-445c-8289-31ffd792dd19.png)
+![image](https://user-images.githubusercontent.com/61068392/182729760-87867010-12ee-445c-8289-31ffd792dd19.png)
 
 
 *       Luego le damos clic al botón Verificación
