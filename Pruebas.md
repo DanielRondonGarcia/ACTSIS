@@ -56,7 +56,7 @@ Ejemplo:
   @\\zeus\ACTSIS\ACTSIS\GEN\Pru\57817\Exe\Scr\57817_01_01_MVC_O_GEN.sql
   ```
   
-* El escenario de pruebas, al finalizar este documento se guarda bajo el nombre original y se le agrega `_PRUEBAS`
+* El escenario de pruebas, si las pruebas son exitosas, se finaliza este documento bajo el nombre original y se le agrega `_PRUEBAS` y se hace una copia en `.PDF`
 
 * [Más documentación acerca de las pruebas](\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Procedimientos\PI-03 Pruebas internas.docx)
 
