@@ -46,6 +46,9 @@ Ejemplo:
 * Despues dentro de `Exe` creamos una carpeta llamada `Doc`
 * Pegamos la ultima versión del formato de pruebas (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
 
+<a href="file://zeus/SGC/DOCUMENTOS_SGC/Instalación y Entrega/Formatos">Abrir carpeta de formatos</a>
+
+
 * Identificar el objetivo general [Contenido](https://svn.actsis.com/svn/SGC/Guías-Desarrollo/EscenarioDePrueba/Contenido)
 * Verificar con el branch y el diseño obtenido del SGI que tenga los mismos objetos modificados
 * Verificar objetos de base de datos en los scripts
