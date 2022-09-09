@@ -50,8 +50,8 @@ Ejemplo:
 
 #
 
-[Abrir carpeta de formatos](file://zeus/SGC/DOCUMENTOS_SGC/Instalación y Entrega/Formatos)
-
+[Abrir carpeta de formatos]("file://zeus/SGC/DOCUMENTOS_SGC/Instalación y Entrega/Formatos")
+[Prueba]("file://zeus/SGC/DOCUMENTOS_SGC/")
 
 * Identificar el objetivo general [Contenido](https://svn.actsis.com/svn/SGC/Guías-Desarrollo/EscenarioDePrueba/Contenido)
 * Verificar con el branch y el diseño obtenido del SGI que tenga los mismos objetos modificados
