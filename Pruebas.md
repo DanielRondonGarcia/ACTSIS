@@ -46,7 +46,11 @@ Ejemplo:
 * Despues dentro de `Exe` creamos una carpeta llamada `Doc`
 * Pegamos la ultima versión del formato de pruebas (\\\zeus\SGC\DOCUMENTOS_SGC\Instalación y Entrega\Formatos)`FI-22 Escenarios de pruebas.docx`
 
-<a href="file://zeus/SGC/DOCUMENTOS_SGC/Instalación y Entrega/Formatos">Abrir carpeta de formatos</a>
+<a href="file://zeus/SGC/DOCUMENTOS_SGC/Instalación y Entrega/Formatos" type="button">Abrir carpeta de formatos</a>
+
+#
+
+[Abrir carpeta de formatos](file://zeus/SGC/DOCUMENTOS_SGC/Instalación y Entrega/Formatos)
 
 
 * Identificar el objetivo general [Contenido](https://svn.actsis.com/svn/SGC/Guías-Desarrollo/EscenarioDePrueba/Contenido)
