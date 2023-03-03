@@ -1,8 +1,8 @@
 ---
 title: GM-01 Creación de pruebas de performance JMeter
-description: 
+description: Versión: 01
 published: true
-date: 2023-03-03T12:52:35.947Z
+date: 2023-03-03T13:00:51.351Z
 tags: jmeter
 editor: markdown
 dateCreated: 2023-03-02T22:45:39.645Z
@@ -11,7 +11,7 @@ dateCreated: 2023-03-02T22:45:39.645Z
 <table>
   <tr>
     <td width="60" height="60"><img src="https://www.actsis.com/wp-content/uploads/2021/06/logo-quienes-somos-home.png" width="60" height="60"></td>
-    <td>Texto de ejemplo</td>
+    <td colspan="2">Guía de Administración de Sonarqube</td>
   </tr>
   <tr>
     <td>Texto de ejemplo</td>
@@ -19,20 +19,15 @@ dateCreated: 2023-03-02T22:45:39.645Z
   </tr>
 </table>
 
-<table border="0" cellpadding="0" cellspacing="0" id="sheet0" class="sheet0 gridlines">
-        <col class="col0">
-        <col class="col1">
-        <col class="col2">
-        <col class="col3">
-        <col class="col4">
-        <tbody>
-          <tr class="row0">
-            <td class="column0 style4 null style5" rowspan="2">
-<div style="position: relative;"><img style="position: absolute; z-index: 1; left: 3px; top: 20px; width: 111px; height: 22px;" src="zip:///home/CloudConvertio/tmp/in_work/e0623913b06f4f9aa74fa830ea7864bb.xlsx#xl/media/image1.wmf" border="0" /></div></td>
-            <td class="column1 style6 s style7" colspan="2">Guía de Administración de</td>
-            <td class="column3 style2 s">Código: <span style="font-weight:bold; color:#000000; font-family:'Arial'; font-size:9pt">GM-01</span></td>
-            <td class="column4 style2 s">Versión: <span style="font-weight:bold; color:#000000; font-family:'Arial'; font-size:9pt">01</span></td>
-          </tr>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="60" height="60"><img src="https://www.actsis.com/wp-content/uploads/2021/06/logo-quienes-somos-home.png" width="60" height="60">
+			</td>
+      <td colspan="2">Guía de Administración de Sonarqube</td>
+      <td>Código: <span style="font-weight:bold; font-size:9pt">GM-01</span></td>
+      <td>Versión: <span style="font-weight:bold;font-size:9pt">01</span></td>
+      </tr>
           <tr class="row1">
             <td class="column1 style8 s style9" colspan="2">Sonarqube</td>
             <td class="column3 style3 s">Fecha:10/02/2021</td>
