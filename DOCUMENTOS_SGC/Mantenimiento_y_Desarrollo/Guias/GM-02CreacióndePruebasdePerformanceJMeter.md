@@ -1,11 +1,11 @@
 ---
-title: GM-01 Creación de pruebas de performance JMeter
-description: Versión: 01
+title: GM-02CreacióndePruebasdePerformanceJMeter
+description: 
 published: true
-date: 2023-03-03T13:07:27.192Z
-tags: jmeter
+date: 2023-03-07T19:24:34.460Z
+tags: 
 editor: markdown
-dateCreated: 2023-03-02T22:45:39.645Z
+dateCreated: 2023-03-07T19:11:22.510Z
 ---
 
 <table>
